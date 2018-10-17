@@ -1,6 +1,5 @@
 GEM
-  remote: https://rubygems.org/
-  remote: https://sometoken@somesite.org/
+  remote: https://sometoken@rubygems.org/
   specs:
     actionmailer (4.2.10)
       actionpack (= 4.2.10)
